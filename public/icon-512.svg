@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="108" fill="#1a1a2e"/>
+  <rect x="40" y="40" width="432" height="432" rx="80" fill="none" stroke="rgba(183,148,246,0.15)" stroke-width="2"/>
+  <text x="256" y="220" text-anchor="middle" font-family="system-ui,-apple-system,sans-serif" font-weight="700" font-size="72" fill="#b794f6">MTM</text>
+  <text x="256" y="300" text-anchor="middle" font-family="system-ui,-apple-system,sans-serif" font-weight="500" font-size="28" fill="rgba(255,255,255,0.5)">MAKE THE</text>
+  <text x="256" y="340" text-anchor="middle" font-family="system-ui,-apple-system,sans-serif" font-weight="500" font-size="28" fill="rgba(255,255,255,0.5)">MARKET</text>
+</svg>
